@@ -7,7 +7,7 @@ toggleButton.addEventListener('click', () => {
 })
 
 
-function createMessageElement(message) {
+/* function createMessageElement(message) {
     const messageElement = document.createElement('li');
     messageElement.className = 'message';
 
@@ -30,4 +30,4 @@ function createMessageElement(message) {
     messageElement.appendChild(commentElement);
     messageElement.appendChild(timestampElement);
     return messageElement;
-}
+} */
