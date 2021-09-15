@@ -80,7 +80,7 @@
                 <img src="images/workplace.jpg" style="width:100%">
               </div>
               <div class="col-7 contactRight">
-                <form method="POST" action="contactMeForm.php">
+                <form method="post" action="contactMeForm.php">
                   <label for="fname">Name</label>
                   <input type="text" id="fname" name="name" placeholder="Your name...">
                   <label for="Email">Email</label>
